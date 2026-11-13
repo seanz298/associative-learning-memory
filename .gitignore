@@ -1,0 +1,7 @@
+# 你的卡点和资料是私人数据，不进仓库
+*.db
+*.db-*
+.env
+__pycache__/
+*.egg-info/
+.pytest_cache/
